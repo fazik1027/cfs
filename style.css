@@ -1,0 +1,42 @@
+.container{
+    background-color: #0056b3;
+    color: gray;
+    display: inline-block;
+    border: 1px solid  darkblue;
+    border-color: #0056b3;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+button{
+    background-color: #0056b3;
+    border-radius:  10px;
+    color: gray;
+    padding: 10px;
+    border: none;
+    border: 3px solid darkgray;
+}
+
+.up{
+    padding-bottom: 20px;
+}
+
+.dropdown-content{
+    background-color: #0056b3;
+    position: absolute;
+    top: 16%;
+    display: block;
+    border: 1px solid  darkblue;
+    border-radius: 10px;
+    padding: 10px;
+    display: none;
+}
+.first:hover{
+     color: white;
+}
+
+a{
+    text-decoration: none;
+    color: gray;
+   
+}
